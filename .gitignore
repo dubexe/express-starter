@@ -1,5 +1,8 @@
 # IDE
 .idea
 
+# Generated
+public/css
+
 # Dependencies
 node_modules
